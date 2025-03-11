@@ -7,7 +7,7 @@ pip install browser-use
 playwright install
 ```
 
-## Local LLM
+## Local LLM using ollama
 ```python
 from langchain_ollama import ChatOllama
 from browser_use import Agent
