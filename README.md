@@ -1,5 +1,5 @@
 # browser_use
-
+This application is using next.Js as frontend and flask as backend
 ## libraries required
 
 ```bash
